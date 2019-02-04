@@ -16,3 +16,5 @@ function johnLennonFacts(facts) {
   return array;
 }
 
+const facts = ["blabla", "blabla1", "blablabla2"];
+console.log(johnLennonFacts(facts))
