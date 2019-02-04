@@ -25,7 +25,3 @@ function iLoveTheBeatles(n) {
   
   return array;
 }
-
-console.log(iLoveTheBeatles(4))
-console.log("break");
-console.log(iLoveTheBeatles(19));
