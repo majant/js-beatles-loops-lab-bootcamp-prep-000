@@ -6,7 +6,3 @@ function theBeatlesPlay(musicians, instruments) {
   return array
 }
 
-var musicians = ["John Lennon", "Ringo Starr"]
-var instruments = ["guitar", "drums"]
-
-console.log(theBeatlesPlay(musicians, instruments))
