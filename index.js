@@ -9,4 +9,4 @@ function theBeatlesPlay(musicians, instruments) {
 var musicians = ["John Lennon", "Ringo Starr"]
 var instruments = ["guitar", "drums"]
 
-theBeatlesPlay(musicians, instruments)
+console.log(theBeatlesPlay(musicians, instruments))
